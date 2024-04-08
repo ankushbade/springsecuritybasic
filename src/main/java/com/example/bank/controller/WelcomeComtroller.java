@@ -9,7 +9,7 @@ public class WelcomeComtroller
 	@GetMapping("/welcome")
 	public String welcome() 
 	{
-		return "Welcome to spring boot  with security";
+		return "Welcome to spring boot with security 6";
 		
 	}
 }
